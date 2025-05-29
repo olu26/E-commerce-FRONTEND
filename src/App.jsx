@@ -2,7 +2,7 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Orders from './pages/Orders';
-import PlaceOrder from './pages/PlaceOrder';
+import PlaceOrder from './pages/Placeorder';
 import Collection from './pages/Collection';
 import Product from './pages/Product';
 import Contact from './pages/Contact';
